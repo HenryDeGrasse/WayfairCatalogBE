@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/WCMTraining.iml" filepath="$PROJECT_DIR$/.idea/WCMTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zip/demo.iml" filepath="$PROJECT_DIR$/zip/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trainingWCM/trainingWCM/trainingWCM.iml" filepath="$PROJECT_DIR$/trainingWCM/trainingWCM/trainingWCM.iml" />
+    </modules>
+  </component>
+</project>
